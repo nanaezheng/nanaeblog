@@ -2,7 +2,7 @@
 title: Nanae Blog
 description: ‘追求极致，用力过猛’
 url: 'http://nanaezheng.me'
-baseurl: '/nanaeblog'
+baseurl: '/nanaeblog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: ‘nanaezheng’
 
