@@ -1,8 +1,8 @@
 # Site settings
 title: Nanae Blog
-description: ‘追求极致，用力过猛’
-url: 'http://nanaezheng.me'
-baseurl: ''
+description: "追求极致，用力过猛"
+url: "http://nanaezheng.me"
+baseurl: ""
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: ‘nanaezheng’
 
@@ -17,10 +17,10 @@ author:
 defaults:
   -
     scope:
-      path: ''
-      type: 'posts'
+      path: ""
+      type: "posts"
     values:
-        layout: 'post'
+        layout: "post"
 
 # Build settings
 destination: _include
