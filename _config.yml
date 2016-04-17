@@ -1,8 +1,8 @@
 # Site settings
 title: Nanae Blog
 description: "追求极致，用力过猛"
-url: "http://nanaezheng.me"
-baseurl: ""
+
+baseurl: "/"
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: ‘nanaezheng’
 
