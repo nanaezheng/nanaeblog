@@ -14,13 +14,14 @@ author:
   github_username:  nanaezheng
   #linkedin_username:  joshgerdes
 
+
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: 'posts'
     values:
-        layout: "post"
+        layout: 'post'
 
 # Build settings
 destination: _site
