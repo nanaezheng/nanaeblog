@@ -1,8 +1,8 @@
 ---
 title:  “异性交往准则”
 date:   2016-04-19 15:00:00
-categories: [Tegs]()
-tags: [知乎]()
+categories: [Tech]
+tags: [infrastructure]
 description: "The story of a confused request who made it's way from California to Tokyo only to be sent right back to California."
 published: true
 ---
@@ -31,4 +31,3 @@ published: true
 
 很遗憾，领悟到的时候已经错过了这么多人和风景。
 却也很庆幸，人生路很长，毕竟才刚过24岁的生日。
-
