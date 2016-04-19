@@ -1,6 +1,6 @@
 ---
 title:  "异性交往准则"
-date:   2016-04-19 15:00:00
+date:   2016-04-19
 categories: [Tech]
 tags: [zhihu]
 description: "The story of a confused request who made it's way from California to Tokyo only to be sent right back to California."
